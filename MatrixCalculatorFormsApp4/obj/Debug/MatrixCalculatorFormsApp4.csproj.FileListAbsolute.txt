@@ -1,0 +1,14 @@
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\bin\Debug\MatrixCalculatorFormsApp4.exe.config
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\bin\Debug\MatrixCalculatorFormsApp4.exe
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\bin\Debug\MatrixCalculatorFormsApp4.pdb
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.MatrixCalculatorForm.resources
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.MsgBox1.resources
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.MsgBox2.resources
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.MsgBox3.resources
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.Properties.Resources.resources
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.exe
+C:\Users\Nick\source\repos\MatrixCalculatorFormsApp4\MatrixCalculatorFormsApp4\obj\Debug\MatrixCalculatorFormsApp4.pdb
